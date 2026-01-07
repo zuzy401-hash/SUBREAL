@@ -1,0 +1,7 @@
+{
+  "name": "SUBREAL - Ecosystem for Creators",
+  "description": "Auction platform, creator wall, and AI-driven development ecosystem with legal rights management and voice chat.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
